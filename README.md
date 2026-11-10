@@ -233,7 +233,7 @@ Planned improvements include:
 
 ## 👨‍💻 Author
 
-**KUNAL MATHIYAN**
+**UDAY SINGH DHAILA**
 
 Computer Science Engineering Student
 
